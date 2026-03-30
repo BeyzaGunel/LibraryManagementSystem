@@ -1,6 +1,6 @@
 ﻿# 📚 Kütüphane Yönetim Sistemi (Console Application)
 
-Bu proje, C# programlama dili kullanılarak geliştirilmiş, temel kütüphane yönetim işlemlerini gerçekleştiren bir konsol uygulamasıdır. **Hacettepe Üniversitesi - Bilgisayar Programcılığı** çalışmaları kapsamında, modern C# pratikleri uygulanarak geliştirilmiştir.
+Bu proje, **C#** programlama dili ve **.NET** platformu kullanılarak geliştirilmiş temel kütüphane operasyonlarını yöneten bir konsol uygulamasıdır. Nesne yönelimli programlama (OOP) prensiplerini ve modern yazılım geliştirme pratiklerini uygulamak amacıyla bir kişisel portfolyo çalışması olarak inşa edilmiştir.
 
 ## 🚀 Özellikler
 * **CRUD İşlemleri:** Kitap ekleme ve listeleme fonksiyonları.
